@@ -1,5 +1,5 @@
 # ipythontoc
-Create a table of contents for a iPython notebook
+Create a table of contents for a iPython notebook and adds a "[top]" link to every level 1 header.
 
 ## Usage
 Step 1: Add a markdown cell at the top of your notebook with the following:
