@@ -13,3 +13,10 @@ Step 2: Add a code cell anywhere in the notebook with the following:
 %%javascript
 $.getScript('https://raw.githubusercontent.com/HugoGuillen/ipythontoc/master/ipythontoc.js')
 ```
+
+### Notes
+You can also download the script (ipythontoc.js) and execute it locally, for example:
+```javascript
+%%javascript
+$.getScript('C:/ipythontoc.js')
+```
