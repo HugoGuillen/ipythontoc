@@ -7,7 +7,7 @@
 Step 2: Add a code cell anywhere in the notebook with the following:
 
 %%javascript
-$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+$.getScript('https://raw.githubusercontent.com/HugoGuillen/ipythontoc/master/ipythontoc.js')
 */
 
 // Builds a <ul> Table of Contents from all <headers> in DOM
